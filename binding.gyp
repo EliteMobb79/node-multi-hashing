@@ -20,6 +20,7 @@
                 "keccakc.c",
                 "hefty1.c",
                 "hmq1725.c",
+				"jha.c",
                 "keccak.c",
                 "lyra2.c",
                 "lyra2re.c",
