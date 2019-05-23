@@ -31,7 +31,7 @@ void jha_hash(const char* input, char* output, uint32_t len) {
      //
      // JHA V8
      //
-     else if (round_mask == 8) {
+     if (round_mask == 8) {
 
         //
         // Input Hashing with SHA3 512, 80 bytes
