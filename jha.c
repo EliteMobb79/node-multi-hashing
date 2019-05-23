@@ -126,11 +126,6 @@ void jha_hash(const char* input, char* output, uint32_t len) {
      //
      // Wrong Round Mask Data
      //
-     else {
-
-		memset(output, 0xFF, 32);
-
-	 }
 
 }
 
